@@ -1,0 +1,1 @@
+The Flight Fare Predictor aims to forecast flight ticket prices based on multiple features like airline, travel class, source, destination, and travel date. By leveraging machine learning models, this project intends to assist travelers in planning their trips efficiently and help airlines optimize pricing strategies.
